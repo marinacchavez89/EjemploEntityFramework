@@ -23,6 +23,10 @@ Este repositorio contiene un ejemplo práctico de uso de Entity Framework en C# 
 
 Consulta el archivo "Uso de Entity Framework en VSC con C#.docx" para obtener una guía detallada con capturas de pantalla de cada paso del proceso.
 
+## Acceso documentación oficial
+
+https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras errores o mejoras potenciales, no dudes en abrir un problema o enviar un pull request.
