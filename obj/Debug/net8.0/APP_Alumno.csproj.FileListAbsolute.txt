@@ -13,16 +13,7 @@ C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.EntityFrame
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
@@ -32,7 +23,6 @@ C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\System.Composition.Co
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\System.Composition.Hosting.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -96,3 +86,8 @@ C:\Users\Marina_Chavez\Desktop\APP_Alumno\obj\Debug\net8.0\refint\APP_Alumno.dll
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\obj\Debug\net8.0\APP_Alumno.pdb
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\obj\Debug\net8.0\APP_Alumno.genruntimeconfig.cache
 C:\Users\Marina_Chavez\Desktop\APP_Alumno\obj\Debug\net8.0\ref\APP_Alumno.dll
+C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Marina_Chavez\Desktop\APP_Alumno\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Marina_Chavez\Desktop\APP_Alumno\obj\Debug\net8.0\APP_Alumno.sourcelink.json
