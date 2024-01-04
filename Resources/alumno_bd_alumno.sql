@@ -26,7 +26,6 @@ CREATE TABLE `alumno` (
   `id` int NOT NULL AUTO_INCREMENT,
   `nombre` varchar(255) NOT NULL,
   `apellido` varchar(255) NOT NULL,
-  `carrera` varchar(255) NOT NULL,
   `fecha_nac` date NOT NULL,
   `edad` int DEFAULT NULL,
   `carrera_id` int DEFAULT NULL,
@@ -42,7 +41,7 @@ CREATE TABLE `alumno` (
 
 LOCK TABLES `alumno` WRITE;
 /*!40000 ALTER TABLE `alumno` DISABLE KEYS */;
-INSERT INTO `alumno` VALUES (1,'Juan','Pérez','Ingeniería Informática','1990-05-15',32,1),(2,'María','Gómez','Psicología','1985-08-22',37,2),(3,'Carlos','Rodríguez','Arquitectura','1995-03-10',27,2);
+INSERT INTO `alumno` VALUES (1,'Juan','Pérez','1990-05-15',32,1),(2,'María','Gómez','1985-08-22',37,2),(3,'Carlos','Rodríguez','1995-03-10',27,2);
 /*!40000 ALTER TABLE `alumno` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
