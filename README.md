@@ -6,6 +6,8 @@ Este repositorio contiene un ejemplo práctico de uso de Entity Framework en C# 
 
 - **Carpeta "Resources":** Contiene los scripts de la base de datos necesarios para recrear la estructura utilizada en este ejemplo y el archivo "Uso de Entity Framework en VSC con C#.docx" con el paso a paso.
 
+- En la rama "developer" se agregó controllers con el crud utilizando AspNetCore.Mvc. En esta rama o en otras, se ira trabajando el escalamiento del proyecto.
+  
 ## Requisitos Previos
 
 - Visual Studio Code instalado.
