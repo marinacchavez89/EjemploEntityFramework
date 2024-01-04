@@ -55,7 +55,6 @@ public class AlumnosController : ControllerBase
 
         alumno.Nombre = alumnoActualizado.Nombre;
         alumno.Apellido = alumnoActualizado.Apellido;
-        alumno.Carrera = alumnoActualizado.Carrera;
         alumno.FechaNac = alumnoActualizado.FechaNac;
         alumno.Edad = alumnoActualizado.Edad;
         alumno.CarreraId = alumnoActualizado.CarreraId;

@@ -43,10 +43,6 @@ public partial class AlumnoBdContext : DbContext
                 .IsRequired()
                 .HasMaxLength(255)
                 .HasColumnName("apellido");
-            entity.Property(e => e.Carrera)
-                .IsRequired()
-                .HasMaxLength(255)
-                .HasColumnName("carrera");
             entity.Property(e => e.CarreraId).HasColumnName("carrera_id");
             entity.Property(e => e.Edad).HasColumnName("edad");
             entity.Property(e => e.FechaNac).HasColumnName("fecha_nac");

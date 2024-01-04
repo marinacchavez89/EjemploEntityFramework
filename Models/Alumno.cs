@@ -11,8 +11,6 @@ public partial class Alumno
 
     public string Apellido { get; set; }
 
-    public string Carrera { get; set; }
-
     public DateOnly FechaNac { get; set; }
 
     public int? Edad { get; set; }
