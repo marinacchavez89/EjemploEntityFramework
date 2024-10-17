@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GvheOv56pL16SXmimuzPTU0uaBGDHuGjGdsF9qV90ykXj1zx+x6dJQ48nBziegH/zDm+usdRQeFZAg8UCDFaVA==",
+  "dgSpecHash": "DFkCK+QIxGs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marina_Chavez\\Desktop\\APP_Alumno\\APP_Alumno.csproj",
+  "projectFilePath": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo NET\\EjemploEntityFramework\\APP_Alumno.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marina_Chavez\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Marina_Chavez\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.0\\microsoft.aspnetcore.jsonpatch.8.0.0.nupkg.sha512",
