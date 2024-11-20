@@ -2497,11 +2497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo NET\\EjemploEntityFramework\\APP_Alumno.csproj",
+      "projectUniqueName": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\EjemploEntityFramework\\APP_Alumno.csproj",
       "projectName": "APP_Alumno",
-      "projectPath": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo NET\\EjemploEntityFramework\\APP_Alumno.csproj",
+      "projectPath": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\EjemploEntityFramework\\APP_Alumno.csproj",
       "packagesPath": "C:\\Users\\Marina_Chavez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo NET\\EjemploEntityFramework\\obj\\",
+      "outputPath": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\EjemploEntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marina_Chavez\\AppData\\Roaming\\NuGet\\NuGet.Config",

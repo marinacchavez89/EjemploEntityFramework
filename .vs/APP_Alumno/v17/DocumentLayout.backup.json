@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\EjemploEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161593EE-D373-4ADB-9913-A33104979443}|..\\APP_Alumno.Tests\\APP_Alumno.Tests.csproj|c:\\users\\marina_chavez\\desktop\\ejemplo_net\\app_alumno.tests\\carrerascontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161593EE-D373-4ADB-9913-A33104979443}|..\\APP_Alumno.Tests\\APP_Alumno.Tests.csproj|c:\\users\\marina_chavez\\desktop\\ejemplo_net\\app_alumno.tests\\alumnoscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF4E259-8DF1-4CA1-8D3F-9C07F0A2B732}|APP_Alumno.csproj|c:\\users\\marina_chavez\\desktop\\ejemplo_net\\ejemploentityframework\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF4E259-8DF1-4CA1-8D3F-9C07F0A2B732}|APP_Alumno.csproj|solutionrelative:controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarrerasController.cs",
+              "DocumentMoniker": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\EjemploEntityFramework\\Controllers\\CarrerasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarrerasController.cs",
+              "ToolTip": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\EjemploEntityFramework\\Controllers\\CarrerasController.cs",
+              "RelativeToolTip": "Controllers\\CarrerasController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:37:58.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarrerasControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\APP_Alumno.Tests\\CarrerasControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\APP_Alumno.Tests\\CarrerasControllerTest.cs",
+              "ToolTip": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\APP_Alumno.Tests\\CarrerasControllerTest.cs",
+              "RelativeToolTip": "..\\APP_Alumno.Tests\\CarrerasControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:37:27.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnosControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\APP_Alumno.Tests\\AlumnosControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\APP_Alumno.Tests\\AlumnosControllerTests.cs",
+              "ToolTip": "C:\\Users\\Marina_Chavez\\Desktop\\Ejemplo_NET\\APP_Alumno.Tests\\AlumnosControllerTests.cs",
+              "RelativeToolTip": "..\\APP_Alumno.Tests\\AlumnosControllerTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:24:08.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
